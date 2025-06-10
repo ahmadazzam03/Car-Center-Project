@@ -1,0 +1,38 @@
+{
+  "public/image/hedercar.jpg": {
+    "file": "assets/hedercar-Dlr_xbnZ.jpg",
+    "src": "public/image/hedercar.jpg"
+  },
+  "resources/css/admin/ManageCar.css": {
+    "file": "assets/ManageCar-DJpuQv3C.css",
+    "src": "resources/css/admin/ManageCar.css",
+    "isEntry": true
+  },
+  "resources/css/admin/dashboard.css": {
+    "file": "assets/dashboard-16K0TE2Z.css",
+    "src": "resources/css/admin/dashboard.css",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-yo2q-lTO.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/header.css": {
+    "file": "assets/header-Bp_etRzp.css",
+    "src": "resources/css/header.css",
+    "isEntry": true
+  },
+  "resources/js/admin/dashboard.js": {
+    "file": "assets/dashboard-D5zqg9pb.js",
+    "name": "dashboard",
+    "src": "resources/js/admin/dashboard.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DfXDvhqM.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
